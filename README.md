@@ -80,20 +80,6 @@ Bot: The capital of India is New Delhi.
 - Gemini 1.5 Pro API
 - `vertexai` Python SDK
 
----
-
-## 🧪 Sample Questions for Interviews
-
-> Q: How is this chatbot different from a normal static chatbot?  
-> A: It simulates real-time responses and connects to Google Gemini API for intelligent, up-to-date answers.
-
-> Q: What model is used for generating responses?  
-> A: Gemini 1.5 Pro, served via Google Vertex AI.
-
-> Q: How do you handle API rate limits or errors?  
-> A: The app uses try-except blocks to catch and display API errors like 429 (Resource Exhausted).
-
----
 
 ## 📄 License
 
