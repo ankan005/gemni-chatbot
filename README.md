@@ -89,4 +89,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🙋‍♂️ Author
 
-Built with ❤️ by [Your Name](https://github.com/yourusername)
+Built with ❤️ by [Ankan Ghosh](https://github.com/ankan005)
