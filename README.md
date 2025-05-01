@@ -30,7 +30,7 @@ gemni/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/gemni-chatbot.git
+git clone https://github.com/ankan005/gemni-chatbot.git
 cd gemni-chatbot
 ```
 
